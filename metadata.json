@@ -1,0 +1,5 @@
+{
+  "name": "AI Lead Cleaner",
+  "description": "An intelligent application that processes CSV lead files, cleans the data by validating categories and finding missing phone numbers, and uses AI to filter out leads that are selling services or hiring, ensuring the final list contains only prospects looking for work.",
+  "requestFramePermissions": []
+}

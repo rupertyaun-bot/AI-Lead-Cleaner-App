@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://your-username.github.io/your-repo-name",
+  "homepage": "https://rupertyaun-bot.github.io/AI-Lead-Cleaner-App",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

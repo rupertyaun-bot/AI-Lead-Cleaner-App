@@ -10,6 +10,6 @@ export default defineConfig(({ mode }) => {
       'process.env.API_KEY': JSON.stringify(env.VITE_API_KEY)
     },
     // IMPORTANT: Replace 'your-repo-name' with the actual name of your GitHub repository
-    base: '/your-repo-name/', 
+    base: '/AI-Lead-Cleaner-App/', 
   }
 })
